@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+h1 span{ color: cyan;}
+.card {
+  padding: 2em;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.total_count{
+    width: 30px;
+    border: 1px solid white;
+    padding: 0.6em 1.2em;
+    border-radius: 8px;
+}
+.read-the-docs {
+  color: #888;
+}
+.error{
+  color:red;
+  font-size: 12px;
+}
